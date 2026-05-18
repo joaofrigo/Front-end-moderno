@@ -20,7 +20,7 @@ export default function Hero() {
           Soluções definitivas em software para o seu negócio
         </h1>
         <p className="mt-6 text-lg leading-relaxed text-slate-700 font-medium max-w-2xl mx-auto">
-          Desde 2003 oferecendo aos nossos clients soluções customizadas e inteligentes, com qualidade e confiabilidade.
+          Desde 2003 oferecendo aos nossos clientes soluções customizadas e inteligentes, com qualidade e confiabilidade.
         </p>
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
           <a href="#solucoes" className="w-full sm:w-auto inline-flex h-12 items-center justify-center rounded-xl bg-slate-900 px-6 font-semibold text-white shadow-xl hover:bg-slate-800 transition-all duration-200">
